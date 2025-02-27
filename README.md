@@ -1,8 +1,8 @@
 # Linux-Mint-Debloater
-Script to debloat Linux Mint. It removes a lot of random junk in LM that many people don't use. It also updates the system for you. 
+Script to debloat Linux Mint and Ubuntu. It removes a lot of random junk in LM that many people don't use. It also updates the system for you. 
 
 # Requirements:
-1. Linux Mint
+1. Linux Mint or Ubuntu
 2. Git (install with `sudo apt install git`)
 
 # How to use
